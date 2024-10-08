@@ -1,0 +1,37 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "these are react projects by manisha",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MedidhiManeesha/React.git"
+  },
+  "keywords": [
+    "react",
+    "manisha"
+  ],
+  "author": "Maneesha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MedidhiManeesha/React/issues"
+  },
+  "homepage": "https://github.com/MedidhiManeesha/React#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "postcss": "^8.4.38",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.3"
+  },
+  "dependencies": {
+    "framer-motion": "^11.2.10",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.23.1"
+  }
+}
